@@ -1,0 +1,73 @@
+{
+  "id": 1309730881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.34163,36.13961,-5.34163,36.13961",
+    "geom:latitude":36.13961,
+    "geom:longitude":-5.34163,
+    "gn:asciiname":"Catalan Bay",
+    "gn:cc2":"GI",
+    "gn:country_code":"GI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2411619,
+    "gn:latitude":36.13961,
+    "gn:longitude":-5.34163,
+    "gn:modification_date":"2008-06-30",
+    "gn:name":"Catalan Bay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Gibraltar",
+    "iso:country":"GI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Catalan",
+        "Caleta",
+        "Catalan Bay Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633167,
+        102191581,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411619,
+        "wk:page":"Catalan_Bay"
+    },
+    "wof:country":"GI",
+    "wof:geomhash":"d17ed78ea2cb8ae74094b2c37d492b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "dependency_id":85633167,
+            "empire_id":136253055,
+            "locality_id":1309730881,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309730881,
+    "wof:lastmodified":1537623857,
+    "wof:name":"Catalan Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.34163,
+    36.13961,
+    -5.34163,
+    36.13961
+],
+  "geometry": {"coordinates":[-5.34163,36.13961],"type":"Point"}
+}
